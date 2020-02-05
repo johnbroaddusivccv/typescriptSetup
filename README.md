@@ -10,7 +10,7 @@ git init
 git clone https://github.com/johnbroaddusivccv/typescriptSetup.git
 ```
 ```bash
-cd typescriptSetup
+cd typescriptSetup/
 ```
 Use the package manager [npm](https://docs.npmjs.com/cli/link.html) to install the dependencies, which in this case is only [express](https://www.npmjs.com/package/express)
 
